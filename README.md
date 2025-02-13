@@ -1,5 +1,25 @@
-# 💫 About Me:
-👋 Hello, I'm Vivek!<br><br>🚀 About Me<br><br>I'm a passionate UI/UX Designer with a strong eye for detail and a user-centered approach to design. I love creating intuitive, functional, and visually appealing digital experiences. Alongside my design journey, I'm also exploring the world of development, learning various coding tools and sharpening my problem-solving skills.<br><br>🎯 What I Do<br><br>💻 UI/UX Design – Designing wireframes, prototypes, and user interfaces with tools like Figma, Miro, Spline, Canva.<br><br>📱 User Experience Research – Conducting user research, usability testing, and developing user personas.<br><br>🔥 Frontend Basics – Exploring HTML, CSS, and JavaScript to bridge the gap between design and development.<br><br>🧑‍💻 DSA in C++ – Developing logical thinking and problem-solving skills with Data Structures and Algorithms.<br><br>🛠️ Developer Tools – Keen to explore Git, GitHub, and other development tools to enhance my workflow.<br><br>🌱 What I'm Currently Learning<br><br>Advanced UI/UX Design techniques<br><br>Design Systems and Components<br><br>DSA (Data Structures and Algorithms) in C++<br><br>Version Control with Git & GitHub<br><br>Frontend Development Basics (HTML, CSS, JS)<br><br>🛠️ Tools & Technologies<br><br>Design: Figma, canva, Miro, Spline<br><br>Development: C++, HTML, CSS, JavaScript<br><br>Version Control: Git & GitHub<br><br><br><br>
+👋 Hi, I'm Vivek!
+
+🎨 Passionate UI/UX Designer | Learning DSA in C++ | Exploring Dev Tools
+
+🚀 What I Do:
+- Crafting intuitive designs with Figma, Spline, Miro
+- User research & usability testing
+- Learning HTML, CSS, JS for frontend basics
+- Problem-solving with DSA in C++
+- Exploring Git, GitHub for version control
+
+🌱 Currently Improving:
+- Advanced UI/UX techniques
+- Design systems
+- Coding & development skills
+
+🛠️ Tools: Figma | Miro | Spline | C++ | HTML | CSS | JS | Git | GitHub
+
+🌐 Connect: [LinkedIn](#) | [Dribbble](#) | [Behance](#)
+
+Let's build amazing experiences together!
+
 
 
 ## 🌐 Socials:
