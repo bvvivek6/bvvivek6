@@ -5,20 +5,15 @@
 🚀 What I Do:
 - Crafting intuitive designs with Figma, Spline, Miro
 - User research & usability testing
-- Learning HTML, CSS, JS for frontend basics
 - Problem-solving with DSA in C++
-- Exploring Git, GitHub for version control
 
 🌱 Currently Improving:
 - Advanced UI/UX techniques
 - Design systems
 - Coding & development skills
 
-🛠️ Tools: Figma | Miro | Spline | C++ | HTML | CSS | JS | Git | GitHub
+🛠️ Languages & Tools: Figma | Miro | Spline(3D) | C++ | HTML | CSS | JS | Git | GitHub
 
-🌐 Connect: [LinkedIn](#) | [Dribbble](#) | [Behance](#)
-
-Let's build amazing experiences together!
 
 
 
