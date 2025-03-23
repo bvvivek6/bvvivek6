@@ -29,7 +29,7 @@
 <h2 align="center">💻 Tools and Languages</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,tailwind,bash,git,github,figma,firebase,mysql,dribbble" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,tailwind,git,github,figma, mysql,dribbble"/>
 </p>
 
 
