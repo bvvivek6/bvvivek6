@@ -44,7 +44,11 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
 
 
 
@@ -53,9 +57,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvvivek6&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bvvivek6&theme=radical&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvvivek6&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bvvivek6&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
 </p>
+
+
+
 
 ---
 
