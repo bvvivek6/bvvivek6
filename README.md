@@ -1,6 +1,10 @@
 <div style="background: black; padding: 20px; border-radius: 10px; color: white;">
 
 <h1 align="center">
+  <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bvvivek6&style=flat&color=blue" alt="Profile Views" />
+</p>
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
   Hi, I'm Vivek!
 </h1>
