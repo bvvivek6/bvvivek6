@@ -58,10 +58,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bvvivek6&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=bvvivek6&limit=5&theme=github_dark&hide_border=true&bg_color=00000000" alt="Contributor Stats" />
+</p>
 
-
-
----
 
 ## 🌐 Let's Connect  
 
