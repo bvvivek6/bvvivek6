@@ -17,7 +17,7 @@
 
 ## 🚀 What I Do  
 
-✔️ Crafting intuitive and user-friendly designs using **Figma, Spline, Miro**  
+✔️ Crafting intuitive and user-friendly designs and user-experiences using **Figma, Spline, Miro**  
 ✔️ Conducting **user research & usability testing** to enhance experiences  
 ✔️ Strengthening **Data Structures & Algorithms (DSA) in C++**  
 
