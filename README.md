@@ -17,7 +17,7 @@
 
 ## 🚀 What I Do  
 
-✔️ Crafting intuitive and user-friendly designs and user-experiences using **Figma, Spline, Miro**  
+✔️ Crafting intuitive and user-friendly designs and user-experiences using **Figma, Spline**  
 ✔️ Conducting **user research & usability testing** to enhance experiences  
 ✔️ Strengthening **Data Structures & Algorithms (DSA) in C++**  
 
@@ -25,7 +25,7 @@
 
 ## 🌱 Currently Improving  
 
-🔹 **Advanced UI/UX techniques** & **design systems**  
+🔹 **Advanced UI/UX techniques** & **Design systems**  
 🔹 Enhancing **frontend & backend development skills**  
 🔹 Exploring **new tools & technologies**  
 
@@ -33,7 +33,6 @@
 
 ## 💻 Tools & Technologies  
 
-<!-- Languages -->
 🧠 Languages
 <p align="left"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
 🌐 Frontend
