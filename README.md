@@ -57,19 +57,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bvvivek6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
 </p>
 
-
-## 🌐 Let's Connect  
-
-<p align="left">
-  <a href="https://behance.net/VivekBv" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance" />
-  </a>  
-  <a href="https://instagram.com/vivekbv__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>  
-  <a href="https://www.linkedin.com/in/vivekbv2406" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>  
-</p>
-
 </div>
