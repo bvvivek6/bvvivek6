@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvvivek6&theme=tokyonight&hide_border=true&background=000" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=bvvivek6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" alt="GitHub Stats" />
 </p>
