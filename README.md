@@ -71,7 +71,7 @@
 </p>  
 
 🎨 Design & Version Control  
-<p align="center"> 
+<p align="left"> 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
@@ -86,7 +86,7 @@
 
 ## 📊 GitHub Stats  
 
-<p align="start">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvvivek6&theme=tokyonight&hide_border=true&background=000" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=bvvivek6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" alt="GitHub Stats" />
 </p>
