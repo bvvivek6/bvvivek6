@@ -77,18 +77,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
 </p>  
-
-
-
-
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvvivek6&theme=tokyonight&hide_border=true&background=000" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bvvivek6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" alt="GitHub Stats" />
-</p>
-
 </div>
