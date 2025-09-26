@@ -10,7 +10,7 @@
 </h1>
 
 <h3 align="center"> 
-🎨 Passionate UI/UX Designer | 🖥️ Exploring Dev Tools | 💡 Problem-Solving with DSA in C++  
+🎨 Passionate UI/UX Designer | MERN Developer | 🖥️ Exploring DevOps| 💡 Problem-Solving with DSA in C++  
 </h3>
 
 ---
