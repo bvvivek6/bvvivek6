@@ -2,23 +2,23 @@
 
 <h1 align="center">
   <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bvvivek6&style=flat&color=blue" alt="Profile Views" />
-</p>
+    <img src="https://komarev.com/ghpvc/?username=bvvivek6&style=flat&color=blue" alt="Profile Views" />
+  </p>
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
   Hi, I'm Vivek!
 </h1>
 
 <h3 align="center"> 
-🎨 Passionate UI/UX Designer | MERN Developer | 🖥️ Exploring DevOps| 💡 Problem-Solving with DSA in C++  
+🎨 Passionate UI/UX Designer | MERN Developer | 🖥️ Exploring DevOps | 💡 Problem-Solving with DSA in C++
 </h3>
 
 ---
 
 ## 🚀 What I Do  
 
-✔️ Crafting intuitive and user-friendly designs and user-experiences using **Figma, Spline**  
-✔️ Conducting **user research & usability testing** to enhance experiences  
+✔️ Crafting intuitive and user-friendly designs using **Figma** & **Spline**  
+✔️ Conducting **user research & usability testing**  
 ✔️ Strengthening **Data Structures & Algorithms (DSA) in C++**  
 
 ---
@@ -33,7 +33,7 @@
 
 ## 💻 Tools & Technologies  
 
-🧠 Languages  
+🧠 **Languages**
 <p align="left"> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
 </p>  
 
-🌐 Frontend  
+🌐 **Frontend**
 <p align="left"> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
 </p>  
 
-🛠️ Backend & Tools  
+🛠️ **Backend & Tools**
 <p align="left"> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
@@ -58,23 +58,50 @@
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" /> 
 </p>  
 
-🗃️ Databases  
+🗃️ **Databases**
 <p align="left"> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> 
 </p>  
 
-⚙️ DevOps & Scripting  
+⚙️ **DevOps & Scripting**
 <p align="left"> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
   <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-🎨 Design & Version Control  
+
+🎨 **Design & Version Control**
 <p align="left"> 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
 </p>  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvvivek6&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+</p>
+
+---
+
+## 🤝 Let's Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bvvivek6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bvvivek6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/bvvivek6" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 </div>
