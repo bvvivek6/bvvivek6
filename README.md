@@ -1,107 +1,59 @@
-<div style="background: black; padding: 20px; border-radius: 10px; color: white;">
-
-<h1 align="center">
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=bvvivek6&style=flat&color=blue" alt="Profile Views" />
-  </p>
-
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  Hey, I'm Vivek!
-</h1>
-
-<h3 align="center"> 
-🎨 Passionate UI/UX Designer | MERN Developer | 🖥️ Exploring DevOps | 💡 Problem-Solving with DSA in C++
-</h3>
-
----
-
-## 🚀 What I Do  
-
-✔️ Crafting intuitive and user-friendly designs using **Figma** & **Spline**  
-✔️ Conducting **user research & usability testing**  
-✔️ Strengthening **Data Structures & Algorithms (DSA) in C++**  
-
----
-
-## 🌱 Currently Improving  
-
-🔹 **Advanced UI/UX techniques** & **Design systems**  
-🔹 Enhancing **frontend & backend development skills**  
-🔹 Exploring **new tools & technologies**  
-
----
-
-## 💻 Tools & Technologies  
-
-🧠 **Languages**
-<p align="left"> 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-</p>  
-
-🌐 **Frontend**
-<p align="left"> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
-</p>  
-
-🛠️ **Backend & Tools**
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Nodemailer-3C3C3C?style=for-the-badge&logo=nodemailer&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" /> 
-</p>  
-
-🗃️ **Databases**
-<p align="left"> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> 
-</p>  
-
-⚙️ **DevOps & Scripting**
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=bvvivek6&style=flat&color=6C63FF&label=profile+views" alt="profile views" />
 </p>
 
-🎨 **Design & Version Control**
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
-</p>  
+<h1>hey, I'm Vivek 👋</h1>
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bvvivek6&" alt="bv-vivek" /></p>
+<p>
+  Final-year CS student at JSS S&T University, Mysuru — building full-stack products, obsessing over clean UI, and currently going deep on LLMs and agentic AI systems.
 </p>
 
 ---
 
-## 🤝 Let's Connect  
+### what I'm working on
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bvvivek6" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bvvivek6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/bvvivek6" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+- RAG pipelines, LangGraph agentic workflows, and LLM integration into real products  
+- system design patterns — concurrency, schema design, API contracts, distributed fundamentals  
+- CI/CD, containerization, and getting comfortable with production-grade deployment  
+- keeping DSA sharp in C++
+
+---
+
+### tech stack
+
+| area | tools & tech |
+|---|---|
+| **languages** |`C++` `Python` `JavaScript` `TypeScript` `C` |
+| **frontend** | `Angular` `React` `Tailwind CSS` `Framer` `HTML5 / CSS3` |
+| **backend** | `.NET / C#` `Node.js` `Express.js` `EF Core` `REST APIs` |
+| **ai / ml** | `LLMs` `RAG` `LangChain` `LangGraph` `Prompt Engineering` `Azure AI Agent Service` `Vector Databases` `Agentic Workflows` |
+| **databases** | `SQL Server` `MySQL` `MongoDB` |
+| **cloud & devops** | `Azure` `Docker` `GitHub Actions` `CI/CD` `Azure DevOps` `Nginx` |
+| **os & scripting** | `Linux` `Bash` `SSH` `Git` |
+| **design** | `Figma` `Spline` `UI/UX Research` `Design Systems` |
+
+---
+
+### system design & devops
+
+things I actually think about when building:
+
+- schema design for concurrency — when locks belong in the DB vs the app layer  
+- API contracts — DTO boundaries, versioning, consistent error surfaces  
+- CI/CD pipeline design — what to automate, what to gate, how to keep deploys boring
+- 
+---
+
+### github stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvvivek6&theme=transparent&hide_border=true&ring=6C63FF&fire=00D4AA&currStreakLabel=6C63FF" alt="streak" />
 </p>
 
-</div>
+---
+
+### let's connect
+
+<a href="https://www.linkedin.com/in/bvvivek6">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://github.com/bvvivek6">GitHub</a> &nbsp;·&nbsp;
+<a href="mailto:bvvivek6@gmail.com">bvvivek6@gmail.com</a>
