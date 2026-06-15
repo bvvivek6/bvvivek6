@@ -54,6 +54,6 @@ things I actually think about when building:
 
 ### let's connect
 
-<a href="https://www.linkedin.com/in/bvvivek6">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/vivekbv2406/">LinkedIn</a> &nbsp;·&nbsp;
 <a href="https://github.com/bvvivek6">GitHub</a> &nbsp;·&nbsp;
-<a href="mailto:bvvivek6@gmail.com">bvvivek6@gmail.com</a>
+<a href="mailto:vivekbv242813@gmail.com">vivekbv242813@gmail.com</a>
